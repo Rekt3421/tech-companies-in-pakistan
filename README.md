@@ -21,6 +21,7 @@ A list of technology companies that hire software developers, product designers,
 ## Services
 - [Approcket.io](https://www.approcket.co/) | Lahore | AppRocket aims to become the world leader in innovation consulting and development, to serve as a launchpad for moonshots that will help shape the technology landscape of tomorrow.
 - [Arbisoft](https://hirestream.arbisoft.com/careers/) | Lahore, Pakistan / Texas, USA / Kuala Lumpur, Malaysia| Arbisoft builds powerful digital solutions and experiences with a world class team of engineers tackling problems in sectors such as education, healthcare and services. 
+- [i2c](https://www.i2cinc.com/) | Lahore | i2c’s mission is to provide card issuers with the tools to create their own future of payments.
 - [Netsol Technologies](http://careers.netsolpk.com/) | Lahore | Global leaders in providing IT solutions to the asset finance and leasing industry.
 - [Systems Limited](https://www.systemsltd.com/careers) | Lahore, Karachi / Dubai, UAE | Systems Limited is a global leader of next-generation IT services and Business Process Outsourcing (BPO) solutions.
 - [Techlogix](https://www.techlogix.com/careers/) | Lahore, Islamabad, Karachi / Boston, USA / Dubai, UAE | A global IT Services, Consulting, and Business Solutions company helping clients achieve enterprise transformation by harmonizing people, business processes, and technology.
