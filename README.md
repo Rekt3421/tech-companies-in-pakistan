@@ -5,6 +5,7 @@ A list of technology companies that hire software developers, product designers,
 ## Game Dev
 - [Caramel Tech Studios](http://carameltechstudios.com/careers.php) | Lahore | Caramel Tech Studios is a premier game development studio which started in 2011. Their company goal is to make the next-gen top performing mobile games
 - [Frag Games](http://frag-games.com/) | Lahore | A mobile gaming and art studio working on 3D social games that push the limits of fun and interaction!
+- [Vanilla Arcade](http://vanillaarcade.com/) | Lahore | Vanilla Arcade is a hyper tech extended reality startup, supercharged to delivering the most mesmerizing experiences to the target audience.
 - [Mindstorm Studios](https://www.mindstormstudios.com/index.php/jobs/) | Lahore / San Francisco, USA | A high quality development studio focused on creating world-class gaming titles on mobile platforms
 
 
